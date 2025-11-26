@@ -1,0 +1,59 @@
+.namecard{
+    margin-left: 3%;
+
+    background-color: rgb(255, 157, 214);
+}
+
+.header-style{
+    background-color: rgb(255, 157, 214);
+
+    border-style: solid;
+    border-color: rgb(253, 81, 181);
+
+    margin-bottom: 10px;
+}
+
+.details{
+    text-align: center;
+    width: 60%;
+}
+
+.profile-pictures{
+    width: 50%;
+
+    border-radius: 100px;
+}
+
+.div-box{
+    display: inline-block;
+    width: 25%; 
+
+    background-color: rgb(255, 157, 214);
+
+    border-radius: 40px;
+    border-style: solid;
+    border-color: rgb(253, 81, 181);
+
+    margin: 10px;
+}
+
+.outline{
+    border-radius: 10px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(253, 81, 181);
+
+    background-color: rgb(255, 190, 228);
+}
+
+.title{
+    border-style: solid;
+    border-color: rgb(255, 157, 214);
+
+    margin: 10px;
+}
+
+.dics{
+    height: auto;
+    width: 100px;
+}
